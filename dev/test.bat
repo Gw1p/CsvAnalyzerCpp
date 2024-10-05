@@ -1,0 +1,1 @@
+ctest --test-dir build -C Debug --output-on-faliure
